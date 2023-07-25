@@ -1,5 +1,6 @@
-# Este es un Readme Personalizado para el curso de git y github :tw-1f4d1:
-un hyperblog creado para práctica de conceptos vistos en el curso
+# Este es un Readme Personalizado para el curso de git y github :wink:
+
+ un hyperblog creado para práctica de conceptos vistos en el curso
 
 ------------
 
@@ -11,4 +12,4 @@ un hyperblog creado para práctica de conceptos vistos en el curso
 - Gestión de versiones del aplicactivo
 - Flujo colaborativo en equipos de desarrollo
 
-> Nunca parar de aprender, es el lema de platzi.:tw-1f4aa:
+> Nunca parar de aprender, es el lema de platzi:crossed_swords:
